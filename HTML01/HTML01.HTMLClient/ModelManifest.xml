@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01\HTML01\HTML01.HTMLClient\Properties\Client.lsml" Checksum="78B02DF5FCCACA839E3CBF24FB415A75AE0B08A7BBC729B76DA4319B0617F431" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01\HTML01\HTML01.HTMLClient\Properties\Proxies.lsml" Checksum="1651C06DB48B5FC00DB1F3394D67D87F09AC4E7FFDD88CDB97B574A5DE8BF0C0" />
+  </Documents>
+</ModelDocumentManifest>
