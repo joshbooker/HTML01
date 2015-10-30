@@ -1,7 +1,11 @@
 <?xml version="1.0"?>
 <ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Documents>
-    <Document FullPath="C:\Users\josh\Source\Repos\HTML01\HTML01\HTML01.HTMLClient\Properties\Client.lsml" Checksum="78B02DF5FCCACA839E3CBF24FB415A75AE0B08A7BBC729B76DA4319B0617F431" />
-    <Document FullPath="C:\Users\josh\Source\Repos\HTML01\HTML01\HTML01.HTMLClient\Properties\Proxies.lsml" Checksum="1651C06DB48B5FC00DB1F3394D67D87F09AC4E7FFDD88CDB97B574A5DE8BF0C0" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.HTMLClient\Properties\Client.lsml" Checksum="896F015747CE3F366E27AF8528F8363B2DC43A939E5E96EE09D2D48BA95A925B" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.HTMLClient\Properties\Proxies.lsml" Checksum="7BB397D6A9DFC2046EA66D0C2535D1B04E756D102C4270367FFA49572592C58B" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.HTMLClient\Screens\Tiles\AddEditTile.lsml" Checksum="9F8947D22F0A20BC2EECBDD2735853B29FF08C52A0E08B1377BDE936B5A00915" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.HTMLClient\Screens\Tiles\ViewTile.lsml" Checksum="ABD58D8A1E5754CE5A2B773759F51A6D5173BC37190005B3092FED66682556D3" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.HTMLClient\Properties\ApplicationData\Tiles.lsml" Checksum="80F0F9E3F84DDE99AE64E8827FA5A4F2DA02294F933D676502B6912D0B651892" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.HTMLClient\Screens\Tiles\BrowseTiles.lsml" Checksum="C9B8B26CE7D6510A5AC1AD63B478E6198907B65E04C8AEE1AAA43E2CA01B7CF1" />
   </Documents>
 </ModelDocumentManifest>

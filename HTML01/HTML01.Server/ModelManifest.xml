@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Documents>
-    <Document FullPath="C:\Users\josh\Source\Repos\HTML01\HTML01\HTML01.Server\Properties\Service.lsml" Checksum="C837F7E892747C1349A552048E3127B94A1FB7380825A96E55F8B9A47C9858F8" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.Server\Properties\Service.lsml" Checksum="679C78F29C5AF23E9956A773B0E46DF90F7B86CADA0B79571E5896A1C79F5B70" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.Server\Properties\DataSources\ApplicationData.lsml" Checksum="986A4E2C3BC71E61B26C49DBB7451F9203AA85AB5825740AC6E35E7095E0722C" />
+    <Document FullPath="C:\Users\josh\Source\Repos\HTML01.2\HTML01\HTML01.Server\DataSources\ApplicationData\Tiles.lsml" Checksum="2EC42D670FB14BF5406CAF9A29A5267E06C69CA3E6F4412F7B75A12F8A1E6BD4" />
   </Documents>
 </ModelDocumentManifest>
